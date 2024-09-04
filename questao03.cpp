@@ -9,6 +9,7 @@ int main() {
     }
 
     printf("O valor da soma eh: %i", soma);
+    //valor é 77
 
     return 0;
 }

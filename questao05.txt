@@ -1,0 +1,19 @@
+Questão 05:
+
+cenário 1
+ligo 1 interruptor e entro na sala com lâmpada acessa, com isso eu sei
+qual o interruptor desta sala, logo, basta eu voltar, ligar outro interruptor
+e vou em outra sala, se essa próxima sala que eu for estiver acessa, eu
+descubro o interruptor das 3 salas, se estiver apagada, eu sei que então 
+acendeu a lâmpada da outra sala que não fui ainda, também descobrindo o
+interruptor das 3 salas.
+
+cenário 2
+ligo 1 interruptor e entro na sala com lâmpada apagada, com isso eu sei 
+que o interruptor ligado pertence a uma das outras 2 salas, volto para 
+sala anterior, desligo o interruptor atual, ligo outro e vou para outra sala.
+Se essa nova sala que eu for estiver acessa, eu sei que interruptor atual
+ligado é desta sala e o anterior é da outra sala que ainda não visitei, 
+descobrindo o interruptor das 3 salas. Se essa nova sala que eu for estiver
+apagada, eu sei que o interruptor liga a lâmpada da sala que fui antes,
+também descobrindo o interruptor das 3 salas.
