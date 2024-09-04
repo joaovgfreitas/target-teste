@@ -1,0 +1,8 @@
+Questao 04:
+
+a) 9    // números ímpares
+b) 128  // multiplica por 2
+c) 49   // soma de ímpares
+d) 100  // quadrado perfeito 10*10
+e) 13   // fibonacci
+f) 200  // números que começam com 'd'
